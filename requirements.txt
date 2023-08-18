@@ -1,0 +1,7 @@
+cohere
+weaviate-client
+python_dotenv
+umap-learn
+altair
+datasets
+Annoy
